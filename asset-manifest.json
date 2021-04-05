@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/testePompe/static/css/main.0b500c42.chunk.css",
-    "main.js": "/testePompe/static/js/main.7436c738.chunk.js",
-    "main.js.map": "/testePompe/static/js/main.7436c738.chunk.js.map",
-    "runtime-main.js": "/testePompe/static/js/runtime-main.b4f676f2.js",
-    "runtime-main.js.map": "/testePompe/static/js/runtime-main.b4f676f2.js.map",
-    "static/css/2.70b0056a.chunk.css": "/testePompe/static/css/2.70b0056a.chunk.css",
-    "static/js/2.e2fb1b32.chunk.js": "/testePompe/static/js/2.e2fb1b32.chunk.js",
-    "static/js/2.e2fb1b32.chunk.js.map": "/testePompe/static/js/2.e2fb1b32.chunk.js.map",
-    "static/js/3.e1cb7dec.chunk.js": "/testePompe/static/js/3.e1cb7dec.chunk.js",
-    "static/js/3.e1cb7dec.chunk.js.map": "/testePompe/static/js/3.e1cb7dec.chunk.js.map",
+    "main.css": "/testePompe/static/css/main.1d1b2953.chunk.css",
+    "main.js": "/testePompe/static/js/main.56cde561.chunk.js",
+    "main.js.map": "/testePompe/static/js/main.56cde561.chunk.js.map",
+    "runtime-main.js": "/testePompe/static/js/runtime-main.018a04f0.js",
+    "runtime-main.js.map": "/testePompe/static/js/runtime-main.018a04f0.js.map",
+    "static/css/2.196e7b84.chunk.css": "/testePompe/static/css/2.196e7b84.chunk.css",
+    "static/js/2.ec0834db.chunk.js": "/testePompe/static/js/2.ec0834db.chunk.js",
+    "static/js/2.ec0834db.chunk.js.map": "/testePompe/static/js/2.ec0834db.chunk.js.map",
+    "static/js/3.7d6fc895.chunk.js": "/testePompe/static/js/3.7d6fc895.chunk.js",
+    "static/js/3.7d6fc895.chunk.js.map": "/testePompe/static/js/3.7d6fc895.chunk.js.map",
     "index.html": "/testePompe/index.html",
-    "static/css/2.70b0056a.chunk.css.map": "/testePompe/static/css/2.70b0056a.chunk.css.map",
-    "static/css/main.0b500c42.chunk.css.map": "/testePompe/static/css/main.0b500c42.chunk.css.map",
-    "static/js/2.e2fb1b32.chunk.js.LICENSE.txt": "/testePompe/static/js/2.e2fb1b32.chunk.js.LICENSE.txt",
+    "static/css/2.196e7b84.chunk.css.map": "/testePompe/static/css/2.196e7b84.chunk.css.map",
+    "static/css/main.1d1b2953.chunk.css.map": "/testePompe/static/css/main.1d1b2953.chunk.css.map",
+    "static/js/2.ec0834db.chunk.js.LICENSE.txt": "/testePompe/static/js/2.ec0834db.chunk.js.LICENSE.txt",
     "static/media/abc-removebg.c139517c.png": "/testePompe/static/media/abc-removebg.c139517c.png",
     "static/media/semantic.min.css": "/testePompe/static/media/outline-icons.ddae9b1b.woff",
     "static/media/discover_thumb.f3aec743.png": "/testePompe/static/media/discover_thumb.f3aec743.png",
@@ -30,10 +30,10 @@
     "static/media/work_thumb_3.1daf37b4.png": "/testePompe/static/media/work_thumb_3.1daf37b4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4f676f2.js",
-    "static/css/2.70b0056a.chunk.css",
-    "static/js/2.e2fb1b32.chunk.js",
-    "static/css/main.0b500c42.chunk.css",
-    "static/js/main.7436c738.chunk.js"
+    "static/js/runtime-main.018a04f0.js",
+    "static/css/2.196e7b84.chunk.css",
+    "static/js/2.ec0834db.chunk.js",
+    "static/css/main.1d1b2953.chunk.css",
+    "static/js/main.56cde561.chunk.js"
   ]
 }
